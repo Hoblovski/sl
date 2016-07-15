@@ -36,7 +36,7 @@
 /* sl version 1.00 : SL runs vomitting out smoke.                            */
 /*                                              by Toyoda Masashi 1992/12/11 */
 
-// CHANGE IN MASTER
+// TOTAL CHANGE
 
 #include <curses.h>
 #include <signal.h>
