@@ -1,3 +1,7 @@
+Merged the fabulous rainbow offered by KoffeinFlummi.
+
+=======================================
+
 SL(1): Cure your bad habit of mistyping
 =======================================
 
