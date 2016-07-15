@@ -70,7 +70,7 @@ int my_mvaddstr(int y, int x, char *str)
 				attroff(COLOR_PAIR(color));
 			return ERR;
 		}
-		if (RAINBOW)
+		if (RAINBOW == 1)
 			attroff(COLOR_PAIR(color));
 	}
     return OK;
